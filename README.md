@@ -1,4 +1,3 @@
-# KinkiestDungeon_한국어_
 
 검수를 너무 대충해서 중복문이나 어색한 부분이 넘쳐나는 상태인 번역문 텍스트 파일입니다.
 번역에 도움을 주고싶다면 Fork를 만들어서 Text_KinkyDungeon_KR.txt 를 수정하신 후 이곳에 Pull requests를 요청하시면 됩니다.
