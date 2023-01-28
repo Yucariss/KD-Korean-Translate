@@ -13665,7 +13665,7 @@ Go away robot! (PERCENT chance to avoid)
 (A happy SPEAKER looks at you)|Hey there cutie~|Want to try some scarf bondage?
 (행복한 SPEAKER 가 당신을 바라본다)|저기 귀염둥이~|스카프 속박을 해볼래?
 (The SPEAKER holds up some scarves)|If you want to try, I've got a few here.|I could give you a RESTRAINT?
-(SPEAKER 가 스카프 몇 개를 들고 있다)|해 보고 싶으시면 여기 몇 개 있습니다.|제지해 드릴까요?
+(SPEAKER 가 스카프 몇 개를 들고 있다)|관심있으면, 내가 몇 개 갖고 있어.|널 묶어봐도 될까?
 (The SPEAKER smiles gently at you as she ties)|I love the silky feeling~|(The SPEAKER tightens all her knots)
 (SPEAKER 가 매듭을 지으며 부드럽게 미소짓는다)|매끈한 느낌이 좋아~|(SPEAKER 가 매듭을 조여준다)
 (The SPEAKER looks away and nods)|Well... maybe next time.
@@ -13675,7 +13675,7 @@ Go away robot! (PERCENT chance to avoid)
 (The SPEAKER scowls)|Hey, don't back out!|I promise I'll make it comfortable!
 (SPEAKER 가 찡그린다)|이봐, 물러서지 마!|편안하게 해줄게 약속할게!
 (The SPEAKER frowns)|Too bad, I want to tie someone!
-(화자가 눈살을 찌푸린다)|안타깝지만, 누군가를 묶고 싶어요!
+(SPEAKER가 눈살을 찌푸린다)|안타깝지만, 누군가를 묶고 싶어요!
 (The SPEAKER drops her scarves)|Aww, really?|I'll go find someone else then...
 (SPEAKER 가 스카프를 떨어뜨린다)|아, 정말?|그럼 다른 사람을 찾으러 갈게...
 (The SPEAKER beams a smile)|Yay, thank you!|Feels nice, right?
@@ -13690,23 +13690,23 @@ Sounds good!
 Not really.
 설마.
 (Shake your head)
-(악수하다)
+(고개를 젓는다)
 
 Please do!
 제발!
 (Nod and giggle)
-(끄덕거리고 낄낄)
+(킥킥대며 고개를 끄덕인다)
 Not right now.
 지금 말고.
 (Shake your head)
-(악수하다)
+(고개를 젓는다)
 
 Well... sure then.
-음...그럼요.
+음...좋아요 그럼.
 (Giggle and moan)
-(낄낄거리며 신음)
+(킥킥대고 신음을 흘린다)
 Hey! Stop! (PERCENT chance to avoid)
-이봐! 멈춰! (피할 확률이 PERCENT)
+이봐! 멈춰! (피할 확률 PERCENT)
 (Shake your head and whine) (PERCENT chance to avoid)
 (고개를 흔들며 칭얼거림) (피할 확률이 PERCENT)
 
@@ -13715,21 +13715,21 @@ Hey! Stop! (PERCENT chance to avoid)
 (A messy looking SPEAKER turns to you)|Hmm, curious. Very curious.|Can you help me with an experiment?
 (어지러워 보이는 SPEAKER 가 당신에게 돌아섭니다)|음, 궁금하네요. 매우 궁금하네요.|실험을 도와주실 수 있나요?
 (The SPEAKER pulls out a flask)|I isolated some slime, but it's inert.|Would you let me spill some on you?
-(SPEAKER 가 플라스크를 꺼낸다.)|점액을 분리했는데 활성이 없어.|당신에게 좀 흘려줄래?
+(SPEAKER 가 플라스크를 꺼낸다.)|점액을 분리했는데 움직이질 않아.|네 몸에 좀 부어봐도 되?
 (The SPEAKER tips out the entire flask)|Aha! It's growing again! Fascinating.|(Sticky RESTRAINT clings to you)
-(SPEAKER 가 플라스크 전체를 기울인다)|아하! 다시 커지고 있다! 신기하다.|(끈적끈적한 구속이 달라붙는다)
+(SPEAKER 가 플라스크 전체를 기울인다)|아하! 다시 커지고 있어! 멋져.|(끈적끈적한 구속이 달라붙는다)
 (The SPEAKER tuts disapprovingly)|Not one for chemistry, eh?
-(SPEAKER 가 못마땅하게 혀를 내민다)|화학은 아니죠?
+(SPEAKER 가 혀를 찬다)|화학을 좋아하진 않나보네?
 (The SPEAKER sighs)|So hard to find good help out here...
-(화자 한숨)|여기서 좋은 도움을 찾기가 너무 힘들어...
+(SPEAKER 가 한숨을 쉰다)|여기서 좋은 도움을 찾기가 너무 힘들어...
 (The SPEAKER glares at you)|You've got no sense of adventure!|For science!
-(SPEAKER 가 당신을 노려본다)|당신은 모험 감각이 없어요!|과학을 위해!
+(SPEAKER 가 당신을 노려본다)|당신은 감각이 없어요!|과학을 위해!
 Ah, but it'll be quick!|(The SPEAKER begins tipping the flask)|See? It's already moving toward you!
 아, 하지만 빨리 될거야!|(SPEAKER 가 플라스크를 기울이기 시작한다)|봐? 이미 너를 향해 움직이고 있어!
 (The SPEAKER tosses the slime on you)|(The slime flops off limply)|Ah. Back to the drawing board.
-(SPEAKER 가 당신에게 슬라임을 던집니다.)|(슬라임이 절뚝거리며 떨어집니다.)|아. 다시 제도판으로 돌아갑니다.
+(SPEAKER 가 당신에게 슬라임을 던집니다.)|(슬라임이 철퍽거리며 떨어집니다.)|아. 다시 제도판으로 돌아가야겠네.
 (The SPEAKER pours the slime onto you)|That's the spirit girl!|(Sticky RESTRAINT clings to you)
-(SPEAKER 가 당신에게 점액을 붓는다)|그건 정령 소녀야!|(끈적끈적한 구속이 당신에게 달라붙는다)
+(SPEAKER 가 당신에게 점액을 붓는다)|그 느낌이야!|(끈적끈적한 구속이 당신에게 달라붙는다)
 (The SPEAKER tosses the slime on you)|Ha, look, it's alive!|(Sticky RESTRAINT clings to you)
 (SPEAKER 가 당신에게 점액을 던진다)|하, 봐, 살아있어!|(끈적끈적한 구속이 당신에게 달라붙는다)
 
@@ -13738,62 +13738,62 @@ Sure.
 (Nod slowly)
 (천천히 끄덕인다)
 Absolutely not.
-절대적으로하지.
+절대 안돼.
 (Shake your head)
-(악수하다)
+(고개를 젓는다)
 
 On me? Sounds fun~
-나? 재미있겠다~
+오 나 말야? 재미있겠다~
 (Nod again)
 (다시 고개를 끄덕인다)
 Nope. Not doing that.
 아니. 그러지 마.
 (Shake your head)
-(악수하다)
+(고개를 젓는다)
 
 Okay, for science...
 좋아, 과학을 위해...
 (Giggle and nod)
 (낄낄거리며 끄덕인다)
 Ah! Don't you dare! (PERCENT chance to avoid)
-아! 감히 하지마! (피할 확률이 PERCENT)
+아! 그러기만 해봐! (피할 확률이 PERCENT)
 (Shake your head and whimper) (PERCENT chance to avoid)
-(고개를 흔들며 칭얼거림) (피할 확률이 PERCENT)
+(훌쩍거리며 고개를 젓는다) (피할 확률이 PERCENT)
 
 
 
 (A SPEAKER whispers to you)|Ever wonder how wolfgirls feel?|Or why they're so obedient?
 (A SPEAKER 가 당신에게 속삭임)|늑대소녀들이 어떻게 느끼는지 궁금한 적이 있나요?|아니면 그들이 왜 그렇게 순종적인지?
 (The SPEAKER grins)|I've got a RESTRAINT here~|Wanna give it a try?
-(SPEAKER 가 웃는다)|여기에 제약이 있어요~|한 번 해볼래요?
+(SPEAKER 가 웃는다)|나한테 구속구가 있어요~|한 번 해볼래요?
 (The SPEAKER puts on the RESTRAINT)|Perfect. Better behave now~|(The SPEAKER pats your butt)
-(SPEAKER 가 구속을 걸다)|완벽해. 이제 행동하는 게 나아~|(SPEAKER 가 엉덩이를 두드린다)
+(SPEAKER 가 구속구를 입힌다)|완벽해. 앞으로 말 잘들으렴~|(SPEAKER 가 엉덩이를 토닥거린다)
 (The SPEAKER rolls her eyes)|You've seen wolfgirls, right?|Ah, whatever, go have fun~
-(SPEAKER 가 눈을 굴리며)|늑대소녀본 적 있지?|아 뭐, 놀러 가~
+(SPEAKER 가 눈을 굴리며)|늑대소녀본 적 있지?|아, 어쨋든, 잘가~
 (The SPEAKER nods glumly)|Not a fan?|Shame, I am~
-(SPEAKER 가 침울하게 고개를 끄덕인다)|팬이 아니야?|부끄럽지만 난~
+(SPEAKER 가 침울하게 고개를 끄덕인다)|관심없어?|안타깝네 난 있어~
 (The SPEAKER grabs you quickly)|Oh, it's very strict~|And great for being trained...
 (SPEAKER 가 당신을 재빨리 붙잡는다)|오, 매우 엄격하다~|그리고 훈련을 받는 것이 좋다...
 (The SPEAKER looks at you deviously)|You're going to wear this RESTRAINT,|if you want to or not~
-(SPEAKER 가 당신을 사악하게 바라본다)|당신은 이 구속을 입게 될 것이다|원하든 원하지 않든~
+(SPEAKER 가 당신을 사악하게 바라본다)|넌 이 구속구를 입게 될 거야|원하든 원하지 않든간에 말야~
 (The SPEAKER sulks)|Have it your way then.
 (SPEAKER 가 토라짐)|그럼 마음대로 하세요.
 (The SPEAKER adds the RESTRAINT)|(You feel her tighten everything before locking it)|Good girl~
-(화자가 구속을 추가함)|(잠그기 전에 그녀가 모든 것을 조이는 것을 느낄 수 있습니다.)|잘했어~
+(SPEAKER 가 구속을 추가함)|(그녀가 모든 구속구를 단단하게 조인뒤 잠그는 게 느껴집니다)|착한 아이네~
 (The SPEAKER pushes you to the ground)|I'll make it extra tight for you~|(The RESTRAINT locks tightly onto you)
-(SPEAKER 가 널 바닥으로 밀어붙인다)|내가 널 더 꽉 조일게~|(RESTRAINT가 널 단단히 조이네)
+(SPEAKER 가 널 바닥으로 밀어붙인다)|엄청 꽉 조여줄게~|(RESTRAINT 가 단단하게 조여집니다)
 
 Maybe a little~
 조금~
 (Nod excitedly)
 (신나게 끄덕인다)
 Don't know, don't care.
-몰라, 신경 쓰지 마.
+몰라, 관심 없어.
 (Shake your head)
-(악수하다)
+(고개를 젓는다)
 
 Yes! So much!
-예! 너무 많이!
+네! 엄청요!
 (Nod quickly)
 (빠르게 끄덕인다)
 That looks too strict!
