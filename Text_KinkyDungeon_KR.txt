@@ -11463,28 +11463,18 @@ Gotta make sure no one gets to you~
 
 This is a bug, please report
 버그입니다. 신고해 주세요.
-This is a bug, please report
-버그입니다. 신고해 주세요.
-This is a bug, please report
-버그입니다. 신고해 주세요.
-This is a bug, please report
-버그입니다. 신고해 주세요.
-This is a bug, please report
-버그입니다. 신고해 주세요.
-This is a bug, please report
-버그입니다. 신고해 주세요.
 *starts chasing you*
 *당신을 쫓기 시작합니다*
 *won't leave you be!*
 *당신을 떠나지 않을 것입니다!*
 *tugs at your body!*
-*몸을 잡아당긴다!*
+*당신의 몸을 잡아당깁니다!*
 *runs at you*
-*당신에게 달려든다*
+*당신에게 달려듭니다*
 *notices you!*
-*알려드립니다!*
+*당신을 알아봅니다!*
 *wants to socialize*
-*사회화를 원함*
+*친분을 갖길 원함*
 *sends shivers down your spine*
 *척추에 전율을 보냅니다*
 *runs at you*
@@ -11536,10 +11526,6 @@ This is a bug, please report
 
 Bug
 벌레
-Bug
-벌레
-Bug
-벌레
 Maintenance needed.
 유지보수가 필요합니다.
 Unit needs repair.
@@ -11547,25 +11533,25 @@ Unit needs repair.
 Commence transfer of power protocol.
 전원 프로토콜 전송 시작.
 Insufficient bindings. Commence submission protocol.
-부족한 바인딩. 제출 프로토콜을 시작하십시오.
+불충분한 구속. 복종 프로토콜을 시작합니다.
 Commence routine inspection.
-정기점검 개시.
+정규 점검 개시.
 Inmate is out of containment. Transferring.
 수감자가 격리 해제되었습니다. 이송 중입니다.
 Theft detected. This is a warning.
-도난이 감지되었습니다. 경고입니다.
+도난이 감지되었습니다. 경고.
 Confiscating item.
 물건을 압수합니다.
 Inmate detected. Commence training protocol.
-수감자가 감지되었습니다. 훈련 프로토콜을 시작하십시오.
+수감자가 감지되었습니다. 훈련 프로토콜을 시작합니다.
 Inmate detected. Commence routine inspection.
-수감자 감지. 정기점검 개시.
+수감자 감지. 정규 점검 개시.
 Inmate detected. Commence submission training.
-수감자 감지. 투항 훈련 시작.
+수감자 감지. 복종 훈련을 시작합니다.
 Violence detected. Subduing assailant.
 폭력이 감지되었습니다. 가해자를 제압합니다.
 Damage detected. Initiating combat routine
-손상 감지. 전투 루틴 시작
+손상 감지. 전투 루틴 시작.
 Unruly inmate detected. Performing corrective action.
 제멋대로인 수감자가 감지되었습니다. 시정 조치를 취하고 있습니다.
 Magic detected. Subduing assailant.
@@ -11573,7 +11559,7 @@ Magic detected. Subduing assailant.
 Energy spike detected. Preparing shields.
 에너지 급증이 감지되었습니다. 보호막을 준비 중입니다.
 Unlawful use of magic. Please submit to arrest.
-불법 마법 사용. 검거에 응해 주십시오.
+허가되지 않은 마법 사용. 검거에 응해 주십시오.
 Violence detected. Subduing assailant.
 폭력이 감지되었습니다. 가해자를 제압합니다.
 Unlawful conduct. Please submit to arrest.
@@ -11583,7 +11569,7 @@ Theft detected. Please submit to arrest.
 Unlawful conduct. Please submit to arrest.
 불법 행위입니다. 체포에 응하십시오.
 Inmate has escaped. Commence capture protocol.
-수감자가 탈출했습니다. 포획 프로토콜을 시작하십시오.
+수감자가 탈출했습니다. 체포 프로토콜을 시작합니다.
 Error, subject is attempting to escape.
 오류, 대상이 탈출을 시도하고 있습니다.
 Target is violent. Disarming subject.
@@ -11599,7 +11585,7 @@ Target combat skills below expected level. Revising estimates.
 Subject captured. Returning to processing.
 대상이 잡혔습니다. 처리로 돌아가는 중입니다.
 Apply takedown protocol.
-게시 중단 프로토콜을 적용합니다.
+제압 중단 프로토콜을 적용합니다.
 Aggressive target detected. Deploying countermeasures.
 공격적인 표적이 감지되었습니다. 대응책을 펼치고 있습니다.
 Contraband detected. Confiscating.
