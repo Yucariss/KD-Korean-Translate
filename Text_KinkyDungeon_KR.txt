@@ -9230,7 +9230,7 @@ Select where to put the water mote (cannot place on occupied squares)
 Create a watery serpent which stuns enemies with its melee attack.
 근접 공격으로 적을 기절시키는 물뱀을 만듭니다.
 A watery spirit bubbles up from the ground!
-땅에서 솟아오르는 물의 정령!
+물의 정령이 부글거리며 땅에서 솟아오릅니다!
 You call upon the plane of Water!
 당신은 물의 차원을 호출합니다!
 
@@ -9333,12 +9333,12 @@ Tidal Sphere
 Slow moving projectile, deals DamageDealt acid damage to enemies it passes thru. Leaves a large amount of water in its wake.
 천천히 움직이는 투사체가 통과하는 적에게 DamageDealt 산성 피해를 줍니다. 지나간 자리에 많은 양의 물을 남깁니다.
 You raise a huge mass of water!
-당신은 엄청난 양의 물을 키웁니다!
+당신은 엄청난 양의 물을 끌어올립니다!
 Choose aim direction
 조준 방향 선택
 
 The boulder knocks you to the ground!
-바위가 당신을 땅에 떨어뜨립니다!
+바위가 당신을 땅에 쓰러뜨립니다!
 The water covers you and drenches you!
 물이 너를 덮고 적신다!
 You step in water and become wet.
@@ -9397,15 +9397,15 @@ You charge up a beam and fire it!
 You swing your weapon and pull away the target's equipment!
 당신은 무기를 휘두르고 대상의 장비를 빼냅니다!
 You swing Dragonslaver and it lashes out in a whip-like fashion!
-Dragonslaver를 휘두르면 채찍처럼 휘두릅니다!
+Dragonslaver를 채찍처럼 휘두릅니다!
 The slime from your staff coats your body, granting you strange powers!
-지팡이의 점액이 몸을 뒤덮어 이상한 힘을 부여합니다!
+지팡이에서 나온 점액이 몸을 뒤덮고 특이한 힘을 부여합니다!
 The power of the four elements flows through your veins!
 당신의 혈관에는 4대 원소의 힘이 흐르고 있습니다!
 Firebolt
 파이어볼트
 An explosion knocks you to the ground!
-폭발이 당신을 땅에 떨어뜨립니다!
+폭발이 당신을 땅에 넘어뜨립니다!
 
 Curious Spell
 호기심 많은 주문
@@ -9417,9 +9417,9 @@ Cuff Bola
 Throw Syringe
 던지기 주사기
 You feel a prick as a small syringe hits you, and you start feeling drowsy...
-당신은 작은 주사기가 당신을 때리자 찌르는 것을 느끼고, 당신은 졸리기 시작합니다...
+당신은 작은 주사기가 몸을 찌르는 것을 느끼고, 어지러워집니다...
 The thrown cuffs snap shut around your ankles and slow you down!!!
-던진 수갑이 발목 주위를 찰칵 닫고 속도를 늦춥니다!!!
+던져진 수갑이 찰칵소리를 내며 발목을 감싸고 당신의 속도를 늦춥니다!!!
 Ribbon Burst
 리본 버스트
 Spores
@@ -9429,7 +9429,7 @@ Noxious Spores
 Enticing Spores
 유혹하는 포자
 You inhale some spores, and feel a bit sleepy...
-포자를 좀 들이마시니 잠이 좀 오네요...
+포자를 약간 들이마시니 잠이 옵니다...
 The spores make you feel excited!
 포자가 당신을 흥분시킵니다!
 The toxic spores make you feel faint...
@@ -9451,11 +9451,11 @@ Icy Aura
 Slime Ball
 슬라임볼
 Witch's Slime Ball
-마녀의 슬라임볼
+마녀의 슬라임 공
 A ball of slime leaves a trail of sticky slime (40 damage when stepped on). It deals DamageDealt glue damage on a hit.
 슬라임 공은 끈적끈적한 슬라임 흔적을 남깁니다(밟았을 때 40 데미지). 적중 시 DamageDealt 접착제 피해를 입힙니다.
 You hurl a ball of slime!
-슬라임 볼을 던집니다!
+슬라임 공을 던집니다!
 Choose aim direction
 조준 방향 선택
 
@@ -9464,7 +9464,7 @@ Summon Skeleton
 Mass Summon Skeleton
 대량 소환 스켈레톤
 A skeleton arises from bones on the floor!
-바닥의 ​​뼈에서 스켈레톤이 발생합니다!
+바닥의 ​​뼈에서 스켈레톤이 나타납니다!
 A gang of SummonCount skeletons forms around you!
 SummonCount 스켈레톤 무리가 주변에 형성됩니다!
 A gang of SummonCount zombies emerges from the floor!
@@ -9485,16 +9485,16 @@ A cloud of locks and chains clatters as it levitates toward you!
 A huge cloud of locks and chains clatters as it levitates toward you!
 자물쇠와 사슬의 거대한 구름이 당신을 향해 공중부양하면서 달그락거립니다!
 Floating hands appear by the conjurer's side as she points her staff!
-그녀가 지팡이를 가리키면 떠다니는 손이 마술사 옆에 나타납니다!
+마술사가 지팡이를 겨누자 떠다니는 손이 그녀 옆에 나타납니다!
 
 Floating books appear near the caster!
-캐스터 근처에 떠다니는 책 등장!
+시전자 근처에 떠다니는 책 나타납니다!
 Dusty tomes appear near the caster!
 시전자 근처에 먼지투성이 책이 나타납니다!
 Magical books appear near the caster!
-시전자 근처에 마법의 책이 나타난다!
+시전자 근처에 마법의 책이 나타납니다!
 Sinister books appear near the caster!
-캐스터 근처에 불길한 책이 나타납니다!
+시전자 근처에 불길한 책이 나타납니다!
 Crackling books appear near the caster!
 딱딱거리는 책이 캐스터 근처에 나타납니다!
 Glowing books appear near the caster!
