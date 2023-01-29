@@ -180,7 +180,7 @@ You slowly regenerate mana, up to a maximum of 50.
 Willpower
 의지력
 -50% stamina drain from being at high arousal.
-높은 각성 상태에서 스태미나 소모량 -50%.
+높은 흥분 상태에서 스태미나 소모량 -50%.
 Bondage Lover
 본디지 러버
 Attempting to escape arouses you.
@@ -344,16 +344,7 @@ Enemies see you through walls and at greater distance.
 Supermarket
 슈퍼마켓
 Commerce shrines can appear in levels and have slightly more items.
-상거래 신사는 레벨에 나타날 수 있으며 약간 더 많은 항목을 가질 수 있습니다.
-Price Gouging
-바가지 요금 부과
-Items are 5x as expensive in the shop.
-아이템은 상점에서 5배 더 비쌉니다.
-
-Supermarket
-슈퍼마켓
-Commerce shrines can appear in levels and have slightly more items.
-상거래 신사는 레벨에 나타날 수 있으며 약간 더 많은 항목을 가질 수 있습니다.
+상거래 사원이 등장할 수 있으며 약간 더 많은 품목을 판매합니다.
 Price Gouging
 바가지 요금 부과
 Items are 5x as expensive in the shop.
@@ -416,7 +407,7 @@ Enemies can add restraints underneath existing restraints.
 Fuuka's Pet
 후우카의 애완동물
 Start with Fuuka's collar and a few restraints.
-후우카의 목줄과 약간의 구속으로 시작하십시오.
+후우카의 목줄과 약간의 구속구를 착용하고 시작합니다.
 Fuuka Fan Club
 후우카 팬클럽
 All humanoids that can bind you also apply Fuuka's special restraints.
@@ -450,7 +441,7 @@ Beds and furniture are often trapped.
 침대와 가구는 종종 함정이 됩니다.
 
 I have... needs
-나는... 필요가 있다
+나는... 욕구가 있다
 Distraction builds up over time.
 산만함은 시간이 지남에 따라 쌓입니다.
 
@@ -514,14 +505,14 @@ Taking chain, poison, and crush damage makes you dizzy.
 Kinky Prisoner
 변태 죄수
 Guards never remove restraints you are already wearing, unless they are applying something tighter.
-경비원은 더 꽉 조이는 경우가 아니면 이미 착용하고 있는 구속을 제거하지 않습니다.
+경비원은 더 강한 구속을 착용시키는 게 아니면 이미 착용하고 있는 구속을 제거하지 않습니다.
 
 Unfair Doors
 불공평한 문
 Doors are harder to open while your hands are bound.
 손이 묶인 상태에서는 문을 열기가 더 어렵습니다.
 You rattle the doorknob uselessly and end up banging on the door.
-문고리를 쓸데없이 덜컥 덜컥 덜컥 덜컥거리다가 결국 문을 두드리게 된다.
+문고리를 쓸데없이 덜컥 덜컥 덜컥 덜컥거리다가 결국 문을 쾅 치고 포기합니다.
 You can't quite get a grip on the doorknob.
 문 손잡이를 제대로 잡을 수 없습니다.
 Someone hears you banging and opens the door from the other side!
@@ -538,7 +529,7 @@ You use your flexible feet to open the door.
 Poor Technique
 부실한 기술
 Instead of fizzling, most miscasted projectiles and AoE spells will target you instead.
-대부분의 잘못 캐스팅된 투사체와 AoE 주문은 어지러운 대신 당신을 목표로 삼을 것입니다.
+대부분의 잘못 캐스팅된 투사체와 범위 주문은 사그러드는 대신 당신을 목표로 삼을 것입니다.
 
 
 
@@ -642,7 +633,7 @@ Panic sets in! (Stunned 2 turns)
 공황 상태가 시작됩니다! (기절 2턴)
 
 Butterfingers
-버터핑거스
+미끌거리는 손
 Having arms bound prevents you from using your hands to struggle or unlock yourself.
 팔을 묶으면 손을 사용하여 몸부림을 치거나 잠금을 해제할 수 없습니다.
 
@@ -652,12 +643,12 @@ Having arms bound prevents you from holding weapons or potions.
 팔을 묶으면 무기나 물약을 들고 다닐 수 없습니다.
 
 You kneel down so you can reach the potion with your mouth...
-무릎을 꿇고 입으로 물약에 닿을 수 있도록...
+당신은 물약이 입에 닿을 수 있도록 무릎을 꿇습니다...
 
 Can't Hear You!
 안 들려!
 Being gagged blocks you from casting verbal spells regardless of gag power.
-재갈을 물리면 재갈의 힘에 관계없이 언어 주문을 시전할 수 없습니다.
+재갈을 문 상태에서는 무조건 언어 주문을 시전할 수 없습니다.
 
 Unmasked
 마스크 해제
@@ -667,11 +658,11 @@ Hoods and full-face covering masks do not appear, but blindfolds are more powerf
 Ball Gag Lover
 볼 개그 애호가
 Increase occurrence of ball gags, decrease occurrence of muzzles.
-볼 개그 발생 증가, 총구 발생 감소.
+볼 개그 등장 증가, 입마개 등장 감소.
 Muzzle Lover
-총구 애호가
+입마개 애호가
 Greatly increases the occurrence of muzzles.
-총구 발생률이 크게 증가합니다.
+입마개 등장률이 크게 증가합니다.
 
 Armbinder Lover
 암바인더 애호가
@@ -693,7 +684,7 @@ Start in a magically locked maid outfit.
 Wolf Trainee
 늑대 훈련생
 Start in a uniform of a naughty wolfgirl.
-개구쟁이 늑대소녀의 제복을 입고 시작합니다.
+외설적인 늑대소녀의 제복을 입고 시작합니다.
 Latex Doll
 라텍스 인형
 Start bound in latex restraints.
@@ -709,7 +700,7 @@ Mana Burst
 While at 100% distraction, you get -100% miscast chance but spending too much mana at once may cause you to go over the edge.
 100% 주의 산만일 때 -100% 미스캐스트 확률을 얻지만 한 번에 너무 많은 마나를 사용하면 한계를 넘을 수 있습니다.
 Arousing Magic
-마법을 깨우다
+흥분시키는 마법
 Your magic is powered by otherworldly distracting energies. Casting spells increases distraction based on the mana spent.
 당신의 마법은 정신을 산만하게 하는 초자연적인 에너지로 강화됩니다. 주문을 시전하면 소비한 마나에 따라 정신이 산만해집니다.
 Clearheaded
@@ -725,19 +716,19 @@ Paste (clipboard)
 
 
 DAMAGEDEALT electric damage conducts to you!!!
-DAMAGEDEALT 전기 손상이 당신에게 전달됩니다!!!
+DAMAGEDEALT 의 전기 데미지를 입었습니다!!!
 The pressure fans the flames on you, dealing bonus DAMAGEDEALT fire damage!
 압력이 당신에게 불길을 부채질하여 보너스 DAMAGEDEALT 화염 피해를 입힙니다!
 The RestraintName comes off more easily in the presence of water!
 RestraintName은 물이 있으면 더 쉽게 벗겨집니다!
 You slip on the ice!
-당신은 얼음에 미끄러!
+당신은 얼음에 미끄러집니다!
 The air around you is ablaze! (-DamageDealt SP)
 주변 공기가 불타고 있습니다! (-DamageDealt SP)
 The Goddess of Illusions shrouds you in shadows!
 환상의 여신이 당신을 그림자로 감쌉니다!
 You struggle against your bonds, but a magical force resists!
-당신은 당신의 유대에 맞서 싸우지만, 마법의 힘이 저항합니다!
+당신은 당신의 구속에 맞서 싸우지만, 마법의 힘이 저항합니다!
 The ropes squeeze you tighter and tighter...
 로프가 당신을 점점 더 조이고 있습니다...
 Your body sinks deeper into a sea of bindings...
@@ -745,7 +736,7 @@ Your body sinks deeper into a sea of bindings...
 You struggle to breath as you are buried alive in squirming ropes...
 당신은 꿈틀거리는 밧줄에 산채로 묻혀 숨쉬기 힘들어합니다...
 The hands squeeze you tightly...
-너를 꽉 쥐는 손...
+손들이 당신을 꽉 움켜쥡니다 ...
 More hands clasp over your body...
 더 많은 손이 당신의 몸을 감싸고 있습니다...
 You struggle to breath as you are pulled into the mass of shadow hands...
@@ -753,7 +744,7 @@ You struggle to breath as you are pulled into the mass of shadow hands...
 The world goes dark...
 세상이 어두워진다...
 You wake up in a different place...
-일어나니 다른 곳에서...
+당신은 다른 장소에서 깨어납니다...
 
 Arcane Explosion
 신비한 폭발
@@ -793,7 +784,7 @@ In the Shadows: You are harder to see.
 Invisible: You are very difficult to see.
 보이지 않음: 당신은 보기가 매우 어렵습니다.
 Quickness: Your next movement is so fast it doesn't advance a turn.
-빠름: 다음 이동이 너무 빨라서 한 턴도 진행하지 않습니다.
+빠름: 다음 이동은 매우 신속해 턴을 소모하지 않습니다.
 All Damage Reduction: 
 모든 피해 감소:
 You take PERCENT1 DAMAGETYPE damage, based on PERCENT2 DAMAGETYPE resist and PERCENT3 DAMAGECATEGORY modifier.
@@ -809,7 +800,7 @@ Plugged!
 Plugged up!!!
 Plugged up!!!
 Denied! You won't be getting off that easy~
-거부! 그렇게 쉽게 가버릴 수는 없어~
+거부! 그렇게 쉽게 벗어날 수는 없어~
 Teasing vibrations...
 놀리는 진동...
 Gentle vibrations...
@@ -830,19 +821,19 @@ Your vision is impaired!
 Arms are bound!
 팔이 묶여있다!
 Hands are useless!
-손은 쓸모없어!
+손을 사용할 수 없습니다!
 Movement significantly impaired!
-움직임이 상당히 손상되었습니다!
+움직임이 상당히 제약됩니다!
 Movement slightly impaired.
-움직임이 약간 손상되었습니다.
+움직임이 약간 제약됩니다.
 Movement severely impaired!
-움직임이 심하게 손상되었습니다!
+움직임이 심하게 제약되었습니다!
 Immobilized!
-고정!
+움직일 수 없음!
 Your mouth is free for potion-drinking and spellcasting activities.
-물약을 마시고 주문 시전 활동을 할 수 있는 입이 자유로워졌습니다.
+입은 멀쩡합니다. 포션을 섭취하거나 주문을 시전할 수 있습니다.
 Your vision is clear.
-당신의 비전은 분명합니다.
+당신의 시야는 깨끗합니다.
 Your hands are unobstructed.
 당신의 손은 방해받지 않습니다.
 Your arms are free to move as you please.
@@ -850,9 +841,9 @@ Your arms are free to move as you please.
 Your legs are free and unimpeded.
 당신의 다리는 자유롭고 방해받지 않습니다.
 You are gagged! Verbal miscast chance is increased and your potions are less effective!
-당신은 재갈을 물렸군요! 언어가 잘못 캐스팅될 확률이 증가하고 당신의 물약은 덜 효과적입니다!
+재갈이 물려졌습니다! 주문 영창 실패 확률이 증가하고 포션은 덜 효과적이게 됩니다!
 Your mouth is totally filled! You can't drink potions and have a high verbal miscast chance!
-입이 꽉 찼어요! 포션도 못 먹고 언어 오발 확률도 높아요!
+입이 꽉 찼습니다! 포션 섭취는 불가능하며 주문 영창 실패 확률이 매우 높아집니다!
 
 Spell Empowerment!
 주문 강화!
@@ -872,7 +863,7 @@ You've been poisoned!
 -50% MP Cost (Rope)
 -50% MP 비용(로프)
 Regeneration
-재건
+회복
 -50% MP Cost (Elements)
 -50% MP 비용(요소)
 -50% MP Cost (Conjuration)
@@ -881,7 +872,7 @@ Regeneration
 -50% MP 비용(일루젼)
 
 Conductive: When you or an enemy takes electric damage, the other takes half of it as well!
-전도성: 당신이나 적이 전기 피해를 입으면 상대방도 절반을 차지합니다!
+전도성: 당신이나 적이 전기 피해를 입으면 그 상대방도 절반을 입습니다!
 Lightning Rod: Gain significantly boosted electric resist.
 피뢰침: 전기 저항이 크게 증가합니다.
 Drenched: Grants fire resist, ice weakness, and makes you conductive.
@@ -890,16 +881,14 @@ Drenched: 화염 저항, 얼음 약점을 부여하고 전도성을 부여합니
 Chilled: The cold makes it hard to move! You are slowed.
 냉기: 추위로 인해 움직이기 어렵습니다! 속도가 느려집니다.
 Slimed: It's sticky and dense! You are slowed and 30% more vulnerable to glue damage.
-슬라임: 끈적거리고 밀도가 높습니다! 속도가 느려지고 접착제 손상에 30% 더 취약합니다.
-Unsteady: You're on loose footing. You are easier to hit and are slowed.
-불안정: 흔들리고 있습니다. 공격받기 쉽고 느려집니다.
+슬라임: 끈적거리고 밀도가 높습니다! 속도가 느려지고 접착제 피해에 30% 더 취약합니다.
 Unsteady: You're on loose footing. You are easier to hit and are slowed.
 불안정: 흔들리고 있습니다. 공격받기 쉽고 느려집니다.
 Ignore Ice Tiles
 얼음 타일 무시
 
 Ignited: You are dealing fire damage to yourself and nearby enemies!
-점화: 자신과 주변의 적에게 화염 피해를 입히고 있습니다!
+점화: 자신과 주변의 적에게 화염 피해를 입힙니다!
 You are on fire and taking damage!
 당신은 불타고 있고 피해를 입고 있습니다!
 
@@ -922,9 +911,9 @@ Arcane Cunning: You turn invisible briefly after attacking.
 Slime Form: You gain bonuses and can slip through bars!
 슬라임 형태: 보너스를 얻고 철창을 통과할 수 있습니다!
 Shroud: Visibility decreased, evasion increased.
-슈라우드: 가시성 감소, 회피 증가.
+장막: 가시성 감소, 회피 증가.
 Camoflage: While holding still, you are very hard to see.
-카모플라주: 가만히 있으면 잘 보이지 않습니다.
+위장: 가만히 있으면 당신을 알아보기 매우 어려워집니다.
 Stone Skin: Increased armor.
 스톤 스킨: 갑옷 증가.
 Darkblade: Increased damage.
@@ -934,36 +923,35 @@ Runic Ward: Increased Magic Armor.
 Invisibility: It is very difficult for enemies to see you.
 투명화: 적들이 당신을 보기가 매우 어렵습니다.
 Lesser Invisibility: It is harder for enemies to see you.
-낮은 투명화: 적이 당신을 보기가 더 어렵습니다.
+하급 투명화: 적이 당신을 보기가 어렵습니다.
 FULL POWER: Cutting power increased.
 FULL POWER: 절단력이 증가했습니다.
 Graceful: Struggling power increased.
 우아함: 투쟁력이 증가했습니다.
 Iron Blood: Reduced melee cost, increased mana costs.
-Iron Blood: 근접 비용 감소, 마나 비용 증가.
+철혈: 근접 비용 감소, 마나 비용 증가.
 Sleepy: You are sluggish and have a hard time keeping your eyes open.
-졸려요: 당신은 게으르고 눈을 뜨고 있는 데 어려움을 겪고 있습니다.
+졸림: 당신은 게으르고 눈을 뜨고 있는 데 어려움을 겪고 있습니다.
 Afterimage: Evasion greatly increased.
 잔상: 회피율 대폭 상승.
 We did it! We made outselves invisible--mmmmph!!!
 우리가 해냈어! 우리는 스스로를 보이지 않게 만들었--으읍읍!!!
 Your restraints are disenchanted, treating them as nonmagical for purposes of cutting.
-당신의 구속은 마법을 풀고 절단을 목적으로 비마법적인 것으로 취급합니다.
+당신의 구속구에 걸린 마법은 풀렸으며, 자를 때 비마법 상태로 판정됩니다.
 You can launch another leather restraint instantly!
 다른 가죽 구속을 즉시 시작할 수 있습니다!
 
 Your motivation is powerful enough your spells cannot be stopped!
-당신의 동기는 당신의 주문을 멈출 수 없을 만큼 강력합니다!
+당신의 동기는 강력해서 당신의 주문은 멈춰질 수 없습니다!
 
 Locked Down: Struggling power is greatly reduced.
-Locked Down: 투쟁력이 크게 감소합니다.
-Locked Down: Struggling power is greatly reduced.
-Locked Down: 투쟁력이 크게 감소합니다.
+잠김: 투쟁력이 크게 감소합니다.
+
 
 Verbose: You can cast verbal spells while gagged.
-Verbose: 재갈을 물린 상태에서 구두 주문을 시전할 수 있습니다.
+장황한: 재갈이 물려진 상태에서 주문 영창을 할 수 있습니다.
 Dextrous: You can cast arm spells while tied up.
-Dextrous: 팔이 묶인 상태에서 주문을 시전할 수 있습니다.
+좋은 손재주: 팔이 묶인 상태에서 주문을 시전할 수 있습니다.
 Spell Dance: You can cast leg spells while tied up.
 주문 춤: 다리가 묶인 상태에서 주문을 시전할 수 있습니다.
 
@@ -991,20 +979,20 @@ Log
 기록
 
 Change Outfit
-옷 갈아입기
+복장 바꾸기
 Reset Outfit
-옷 리셋
+복장 초기화
 Code
 코드
 Confirm Reset?
-정말 리셋하시겠습니까?
+정말 초기화하시겠습니까?
 
 (Copy the code above and save it on your computer to load later)
-(위의 코드를 복사하고 나중에 로드할 수 있도록 컴퓨터에 저장)
+(이후에 불러오려면 위의 코드를 컴퓨터에 저장하세요)
 You come across a black monolith with its face inscribed in runes.
-얼굴에 룬이 새겨진 검은 기둥을 발견했습니다.
+표면에 룬이 새겨진 검은 기둥을 발견했습니다.
 You study them, but can't come up with an interpretation.
-당신은 그것들을 연구하지만 해석을 할 수 없습니다.
+당신은 그것들을 살펴보지만 해석 할 수 없습니다.
 They may still prove useful to future adventurers should you get caught...
 당신이 잡히면 미래의 모험가들에게 여전히 유용할 수 있습니다...
 (Your game has been saved automatically, but you can save the code for later)
@@ -1047,14 +1035,14 @@ Waiting for game data...
 You have surrendered to the dungeon and become its prisoner.
 당신은 던전에 항복했고 그 포로가 되었습니다.
 Day and night, you wait that rescue may come some day.
-언젠가 구조가 올 수 있도록 밤낮으로 기다리십시오.
+당신은 언젠가 올지도 모를 구조를 밤낮으로 기다립니다.
 Better luck next time!
 다음 기회에!
 
 You have reached the end of the playable portion.
-재생 가능한 부분의 끝에 도달했습니다.
+플레이 가능 영역의 끝에 도달했습니다.
 Come back later for new dungeons!
-나중에 새로운 던전으로 돌아오세요!
+나중에 새로워진 던전으로 돌아오세요!
 
 
 
@@ -1081,15 +1069,15 @@ Stunned!
 Slowed
 느려짐
 Very Slow
-매우 느림
+매우 느려짐
 Immobile
-움직이지 않음
+움직일 수 없음
 Mana slowly recovers from a pool equal to 4x your max mana. Drink potions to restore the pool.
 마나는 최대 마나의 4배에 해당하는 웅덩이에서 천천히 회복됩니다. 물약을 마셔 웅덩이를 회복하십시오.
 Your minimum distraction increases over time as you encounter distracting things.
 시간이 지남에 따라 주의를 산만하게 하는 것들을 만나면 최소한의 주의가 산만해집니다.
 Stamina recovers more quickly when you aren't spending it.
-사용하지 않을 때 스태미나가 더 빨리 회복됩니다.
+스테미나는 행동하지 않을 때 더 빨리 회복됩니다.
 Willpower is restored by food, sleep, and potions. Without willpower, it becomes very difficult to escape.
 의지는 음식, 수면, 물약으로 회복됩니다. 의지력이 없으면 탈출하기가 매우 어려워집니다.
 Charge is used to power various magic items and weapons.
@@ -1160,7 +1148,7 @@ You wait, legs trembling with arousal.
 You wait, trembling and moaning.
 당신은 떨고 신음하면서 기다리고 있습니다.
 You wait to regain your strength.
-기력을 되찾을 때까지 기다리십시오.
+기력을 되찾기 위해 대기합니다.
 You wait to regain your composure, panting with frustration.
 당신은 좌절감으로 헐떡이며 평정을 되찾기를 기다립니다.
 You wait to regain your composure, shaking with frustration.
@@ -1171,7 +1159,7 @@ You are exhausted from spellcasting.
 You are feeling tired.
 당신은 피곤함을 느낍니다.
 You feel exhausted...
-당신은 피곤함을 느낍니다...
+당신은 탈진했습니다...
 You feel like you are going to pass out...
 당신은 기절할 것 같은 느낍이 듭니다...
 
@@ -1243,17 +1231,17 @@ Spell 6
 Spell 7
 마법 7
 Cycle Spell Page
-사이클 주문 페이지
+주문 페이지 전환
 Upcast Spells
-업캐스트 주문
+주문 강화
 Cancel Upcast
-업캐스트 취소
+주문강화 취소
 Swap Weapon
 무기 바꾸기
 Ranged Attack
 원거리 공격
 Wait
-기다리다
+대기
 Cancel/Return
 취소/반품
 Enter
@@ -1364,7 +1352,7 @@ You find some gold coins in a corner (+XXX gold)
 You find a lockpick in a crack between the tiles
 타일 ​​사이의 균열에서 자물쇠 따개를 찾았습니다.
 You find a rusty knife among the rocks
-당신은 바위 사이에서 녹슨 칼을 발견
+당신은 바위 사이에서 녹슨 칼을 발견했습니다.
 You find an ordinary key
 당신은 평범한 열쇠를 찾았습니다
 You find a blue key, glowing with magic
