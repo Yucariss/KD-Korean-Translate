@@ -1403,7 +1403,7 @@ You find a wearable item! (+ArmorAcquired)
 You find gold and a magic trap! (+RestraintType) (+XXX gold)
 금과 마법의 함정을 찾았습니다! (+RestraintType) (+XXX 금)
 Swirling belts emerge from the chest and leave you bound! (+RestraintType)
-소용돌이 벨트가 가슴에서 나타나 당신을 구속합니다! (+RestraintType)
+꿈틀거리는 벨트가 상자에서 나타나 당신을 구속합니다! (+RestraintType)
 You find gold and a chastity belt that locks around your waist! (+RestraintType) (+XXX gold)
 당신은 금과 당신의 허리를 잠그는 정조대를 찾았습니다! (+RestraintType) (+XXX 금)
 You find gold and a tormenting magical trap! (+RestraintType) (+XXX gold)
@@ -1431,7 +1431,7 @@ You find a red potion with a sweet scent.
 You find a blue potion that glows with magical essence.
 마법의 정수로 빛나는 파란 물약을 찾았습니다.
 You find a glowing orb, filled with untapped mana.
-당신은 아직 개발되지 않은 마나로 가득 찬 빛나는 구를 발견했습니다.
+당신은 아직 누구도 손대지 않은 마나로 가득 찬 빛나는 구를 발견했습니다.
 You find three mana orbs strung together!
 당신은 서로 연결된 세 개의 마나 오브를 찾았습니다!
 You find several willpower potions.
@@ -1443,12 +1443,12 @@ You find a green potion, glowing warm with energy.
 You find a snow-like potion that's cold to the touch.
 만지면 차갑고 눈처럼 차가운 물약을 찾았습니다.
 You find a medley of potions.
-당신은 물약의 메들리를 찾았습니다.
+당신은 여러종류의 물약을 찾았습니다.
 
 Rarity: 
 희소성: 
 Lesser
-보다 작은
+저급
 Common
 흔한
 Uncommon
@@ -1458,9 +1458,9 @@ Rare
 Very Rare
 매우 희귀
 Epic
-서사시
+에픽
 Legendary
-전설적인
+전설
 Supreme
 슈프림
 Mythic
@@ -1507,14 +1507,7 @@ No bonuses, no penalties.
 Maid Uniform
 메이드복
 An elegant dress meant to denote a maid's status.
-메이드의 지위를 나타내는 우아한 드레스.
-Massively increases accuracy against slime mold.
-점균류에 대한 정확도가 크게 향상됩니다.
-
-Maid Uniform
-메이드복
-An elegant dress meant to denote a maid's status.
-메이드의 지위를 나타내는 우아한 드레스.
+메이드의 신분을 나타내는 우아한 드레스.
 Massively increases accuracy against slime mold.
 점균류에 대한 정확도가 크게 향상됩니다.
 
@@ -1542,7 +1535,7 @@ No bonuses, no penalties.
 Shadow Latex Dress
 그림자 라텍스 드레스
 A minidress made from shadow latex, a favorite of otherwordly patrons.
-섀도우 라텍스로 만든 미니드레스, 다른 말로 고객이 가장 좋아하는 제품입니다.
+섀도우 라텍스로 만든 미니드레스, 이세계의 고객이 가장 좋아하는 제품입니다.
 No bonuses, no penalties.
 보너스도 페널티도 없습니다.
 
