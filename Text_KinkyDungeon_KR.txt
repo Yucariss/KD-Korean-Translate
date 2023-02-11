@@ -1378,7 +1378,7 @@ You find a pack of scrolls used for spellcasting, and some strange golden crysta
 You find a pack of scrolls used for spellcasting.
 주문 시전에 사용되는 두루마리 꾸러미를 찾았습니다.
 You find a glowing scroll of purity.
-빛나는 순결의 두루마리를 찾았습니다.
+빛나는 순수함의 두루마리를 찾았습니다.
 
 The chest contains gold! (+XXX gold)
 상자에는 금이 들어 있습니다! (+XXX 골드)
@@ -1395,7 +1395,7 @@ You found some high explosives!
 You find a magic scroll, which you place in your spellbook. (+SpellLearned)
 당신은 주문서에 넣은 마법 두루마리를 찾았습니다. (+SpellLearned)
 You find an orb containing magical knowledge! (+AMOUNT spell points)
-마법 지식이 담긴 구를 찾았습니다! (+AMOUNT 주문 포인트)
+마법 지식이 담긴 오브를 찾았습니다! (+AMOUNT 주문 포인트)
 You find a weapon! (+WeaponAcquired)
 무기를 찾았다! (+WeaponAcquired)
 You find a wearable item! (+ArmorAcquired)
@@ -1485,12 +1485,12 @@ Exit Keys
 Wizard's Outfit
 마법사 의상
 Your favorite outfit for adventuring.
-모험을 위해 가장 좋아하는 복장.
+당신이 가장 좋아하는 모험용 의상.
 Your original outfit.No bonuses,
 당신의 원래 복장. 보너스도, 페널티도 없습니다.
 
 Jail Uniform
-감옥 제복
+죄수복
 The prisoners are kept in revealing outfits to keep them from hiding things.
 죄수들은 물건을 숨기지 못하도록 노출이 심한 옷을 입고 있습니다.
 A prisoner's 'outfit'. No bonuses, no penalties.
@@ -1514,7 +1514,7 @@ Massively increases accuracy against slime mold.
 Prisoner Uniform
 죄수복
 The uniform of choice for girls captured by the dragonhearts.
-드래곤하트에게 사로잡힌 소녀들이 선택한 교복.
+드래곤하트에게 사로잡힌 소녀들을 위한 제복.
 Designed to make it hard to conceal weapons. No bonuses, no penalties.
 무기를 숨기기 어렵게 설계되었습니다. 보너스도 페널티도 없습니다.
 
@@ -1567,11 +1567,11 @@ Removes all vibrators from your body.
 Scroll of Speech
 연설의 두루마리
 The scroll makes your gagged speech slightly more intelligible!
-두루마리는 당신의 재갈을 물린 연설을 좀 더 이해하기 쉽게 만듭니다!
+두루마리는 재갈을 문 상태의 발성을 약간 더 이해하기 쉽게 만듭니다!
 A scroll used to help translate different languages.
 다른 언어를 번역하는 데 사용되는 두루마리.
 Allows you to cast Verbal spells without components for 12 turns.
-12턴 동안 주창이 필요한 주문을 조건 없이 시전할 수 있습니다.
+12턴 동안 발성이 필요한 주문을 조건 없이 시전할 수 있습니다.
 
 Scroll of Sauntering
 유랑의 두루마리
@@ -1636,19 +1636,15 @@ Magic Key
 A magical key with the power to open blue locks.
 파란색 자물쇠를 여는 마법의 열쇠.
 Blue locks can't be otherwise picked.
-파란색 자물쇠는 다른 방법으로 선택할 수 없습니다.
+파란색 자물쇠는 다른 방법으로 딸 수 없습니다.
 Magic Knife
 매직나이프
 A magical blade, suitable against ghosts.
-유령에 적합한 마법의 칼날.
+유령에게 효과적인 마법의 칼날.
 Deals shadow damage. Can cut enchanted ropes.
 암흑 피해를 입힙니다. 마법이 부여된 로프를 절단할 수 있습니다.
 Bola
-그녀는
-A pair of weights attached to a rope. Can be thrown.
-밧줄에 연결된 한 쌍의 추. 던질 수 있습니다.
-Deals 90 points of binding, 40 chain damage, and rooting a target for 4 turns.
-바인딩 90포인트, 체인데미지 40, 대상을 4턴간 속박합니다.
+볼라
 A pair of weights attached to a rope. Can be thrown.
 밧줄에 연결된 한 쌍의 추. 던질 수 있습니다.
 Deals 90 points of binding, 40 chain damage, and rooting a target for 4 turns.
@@ -1656,11 +1652,11 @@ Deals 90 points of binding, 40 chain damage, and rooting a target for 4 turns.
 Bomb
 폭탄
 After a 5 turn fuse, deals 100 fire damage in a 3x3 area.
-5턴 신관 후, 3x3 지역에 100의 화염 피해를 입힙니다.
+신관은 5턴 동안 유지된 뒤, 3x3 지역에 100의 화염 피해를 입힙니다.
 Not a toy!
 장난감이 아니야!
 After a 6 turn fuse, deals 100 fire damage in a 3x3 area.
-6턴 퓨즈 후, 3x3 영역에 100의 화염 피해를 입힙니다.
+신관은 6턴 동안 유지된 뒤, 3x3 영역에 100의 화염 피해를 입힙니다.
 Not a toy!
 장난감이 아니야!
 You light the fuse!
@@ -1738,7 +1734,7 @@ You feel liquid inside, but you can't see it!
 Casts Invisibility on yourself.
 자신에게 투명화를 시전합니다.
 Ectoplasm
-외부 원형질
+엑토플라즘
 Like a moisturizing cream, except it's made from coagulated souls.
 응고된 영혼으로 만들어졌다는 점을 제외하고는 보습 크림과 같습니다.
 Can be used without hands. Just apply directly to the forehead!
@@ -1750,7 +1746,7 @@ Earth Rune
 You smash the rune in front of you, and glowing rocks rise from the earth.
 당신은 당신 앞에서 룬을 부수고 빛나는 바위가 땅에서 솟아납니다.
 It feels unsettling to look at.
-보기에 불안해.
+불안정해 보입니다.
 Creates a 3x3 area of +20 armor centered on yourself for 9 turns.
 9턴 동안 자신을 중심으로 +20 방어력의 3x3 영역을 생성합니다.
 Water Rune
@@ -1758,13 +1754,13 @@ Water Rune
 You crush the rune in your hand, and it turns into water that coats the floor
 손에 든 룬을 부수면 바닥을 덮는 물로 변합니다.
 It feels slimmy.
-날씬한 느낌이야.
+슬라임 같은 느낌이야.
 Creates a 3x3 area on you for 9 turns. Gives +30 Magic Armor to friendlies, halves enemy speed.
 9턴 동안 자신에게 3x3 영역을 생성합니다. 아군에게 +30 매직 아머를 부여하고 적의 속도를 절반으로 줄입니다.
 Ice Rune
 얼음의 룬
 You smash the rune in front of you, and icicles pierce through the floor!
-당신은 당신 앞에서 룬을 부수고 고드름이 바닥을 뚫습니다!
+당신이 앞에 선 룬을 부수자 고드름이 바닥을 뚫습니다!
 It feels cold to the touch.
 만지면 차갑다.
 Creates icicles around you for 5-8 turns. They deal 40 damage and freeze for 3 turns.
@@ -1780,7 +1776,7 @@ You feel the restraints become loose on your skin!
 The secret to elven cosmetics and blemish-free skin.
 엘프 화장품과 잡티 없는 피부의 비밀.
 Makes you slippery for 10 turns, boosting all forms of struggling.
-10턴 동안 미끄럽게 만들어 모든 형태의 고군분투를 강화합니다.
+10턴 동안 미끄럽게 만들어 모든 형태의 몸부림을 강화합니다.
 You feel the restraints become loose on your skin!
 구속이 피부에 느슨해지는 것을 느낍니다!
 
@@ -1801,9 +1797,9 @@ Dollmaker's Staff
 You remember this being used on someone else.
 당신은 이것이 다른 사람에게 사용된 것을 기억합니다.
 +15% glue damage. Deals psychic damage. Fully bound enemies captured with this weapon become latex dolls which fight with you.
-+15% 글루 데미지. 심령 데미지를 입힙니다. 이 무기로 포획된 완전히 결속된 적은 당신과 함께 싸우는 라텍스 인형이 됩니다.
++15% 글루 데미지. 심령 데미지를 입힙니다. 이 무기로 인해 확실히 결박된 적은 당신과 함께 싸우는 라텍스 인형이 됩니다.
 You are unable to control more than 3 dolls. The new doll is protesting and remains bound.
-3개 이상의 인형을 제어할 수 없습니다. 새 인형이 항의하고 묶여 있습니다.
+3개 이상의 인형을 제어할 수 없습니다. 새 인형이 저항하고 그대로 묶여 있습니다.
 
 Staff of Incineration
 소각의 지팡이
@@ -1833,7 +1829,7 @@ A magical weapon made to use on novices.
 Arcane Orb
 신비한 오브
 Look into my eyes...
-내 눈을 들여다...
+내 눈을 들여다 봐...
 Deals shadow damage. Can be used without hands. Does not benefit from enemies being vulnerable.
 암흑 피해를 입힙니다. 손이 없어도 사용할 수 있습니다. 취약한 적에게 도움이 되지 않습니다.
 Staff of Flame
@@ -1880,26 +1876,26 @@ You pick up a staff of frostbite. Your hand feels numb just reaching for it.
 당신은 동상에 걸린 지팡이를 집어들었습니다. 당신의 손은 그것에 도달하기만 하면 감각이 마비됩니다.
 
 You pick up a staff of chains. You have fond memories...
-당신은 쇠사슬의 지팡이를 집었습니다. 당신은 좋은 추억을 가지고 있습니다...
+당신은 쇠사슬의 지팡이를 집어들었습니다. 당신은 좋은 추억을 가지고 있습니다...
 You pick up a staff of the storm. It tingles.
-당신은 폭풍우의 지팡이를 집었습니다. 그것은 따끔 거립니다.
+당신은 폭풍우의 지팡이를 집어들었습니다. 그것은 따끔 거립니다.
 You pick up a staff of flames. It feels warm.
-당신은 불의 지팡이를 집어 들었다. 따뜻하다.
+당신은 불의 지팡이를 집어들었다. 따뜻하다.
 You find a purple crystal. You feel your mystic powers flood into it.
 자주색 수정을 찾았습니다. 신비한 힘이 그 안에 넘쳐나는 것을 느꼈습니다.
 You pick up a staff of slime.
-슬라임 지팡이를 집으십시오.
+당신은 슬라임 지팡이를 집어들었습니다.
 You pick up a staff of permafrost. It feels icy to the touch.
 당신은 영구 동토층 지팡이를 집어들었습니다. 만지면 차갑게 느껴집니다.
 
 Crop
-수확고
+승마용 채찍
 For those unruly subs.
-그 제멋대로인 잠수함을 위해.
+제멋대로인 서브들을 위한 채찍.
 Deals pain damage. Highly distracting.
-고통 피해를 입힙니다. 매우 산만합니다.
+고통 피해를 입힙니다. 매우 흥분시킵니다.
 You pick up a riding crop.
-승마 작물을 줍습니다.
+승마용 채찍을 줍습니다.
 
 Scissors
 가위
@@ -1908,21 +1904,21 @@ Safety first!
 Deals slash damage. Better than a knife for cutting restraints.
 베기 피해를 입힙니다. 속박을 자르는 칼보다 낫습니다.
 You pick up a pair of scissors.
-가위를 집으십시오.
+가위를 주웠습니다.
 
 Dagger
 단검
 Designed with subterfuge in mind.
-속임수를 염두에 두고 설계되었습니다.
+암습을 염두에 두고 설계되었습니다.
 Deals slash damage. Deals 55 pierce damage instead on unaware targets.
-베기 피해를 입힙니다. 알지 못하는 대상에게는 대신 55의 관통 피해를 줍니다.
+베기 피해를 입힙니다. 기습에 성공시 대신 55의 관통 피해를 줍니다.
 You pick up a dagger.
-너는 단검을 집는다.
+당신은 단검을 집어듭니다.
 
 Katana
 카타나
 She who strikes first, hits second.
-먼저 치는 여자는 두 번째로 친다.
+한번 휘두른 사람은 두 번째도 때린다.
 Deals slash damage. Deals up to 50 bonus damage by waiting 10 turns between attacks.
 베기 피해를 입힙니다. 공격 사이에 10턴을 기다리면 최대 50의 추가 피해를 입힙니다.
 You pick up a katana.
@@ -1935,7 +1931,7 @@ For those who truly devote themselves to the cause.
 Deals shadow damage. Damage is doubled against enemies that are in shadow.
 그림자 피해를 입힙니다. 그림자 안에 있는 적에게는 피해가 두 배가 됩니다.
 You pick up Shadow's Edge.
-당신은 Shadow's Edge를 선택합니다.
+당신은 Shadow's Edge를 집어듭니다.
 
 Stormbreaker
 스톰브레이커
@@ -1955,16 +1951,16 @@ For the ostentatious and flashy duelist.
 Deals slash damage. Deals 50 pierce damage instead on vulnerable targets.
 베기 피해를 입힙니다. 취약한 대상에게는 대신 50의 관통 피해를 줍니다.
 You pick up some kind of pretentious sword.
-당신은 어떤 종류의 허식적인 검을 집어 들었습니다.
+당신은 어떻게 보면 허세가 깃든 검을 집어 들었습니다.
 
 Foil
-박
+플뢰레(펜싱용 검)
 En garde!
 경비하라!
 Deals pierce damage. Deals 30 damage instead on vulnerable targets.
 관통 피해를 줍니다. 취약한 대상에게는 대신 30의 피해를 줍니다.
 You pick up a fencing sword.
-펜싱 검을 집으십시오.
+당신은 펜싱용 검을 집어듭니다.
 
 Hammer
 망치
@@ -1999,19 +1995,19 @@ Deals slash damage.
 Torch
 토치
 Second only to the mighty towel in usefulness.
-유용성 면에서 강력한 수건 다음으로 두 번째입니다.
+위대한 수건 다음으로 유용합니다.
 Deals fire damage. Provides light.
 화염 피해를 입힙니다. 빛을 제공합니다.
 Unarmed
 비무장
 Fight with your hands and feet.
-손과 발로 싸워라.
+손과 발로 싸웁니다.
 Deals unarmed damage.
 비무장 피해를 입힙니다.
 Sword
 검
 The blade is strong, its edge sharp.
-검은 강하고 칼날은 날카롭다.
+검신은 강하고 칼날은 날카롭다.
 A fast and accurate weapon that deals slash damage.
 베기 피해를 주는 빠르고 정확한 무기입니다.
 Flamberge
@@ -2077,7 +2073,7 @@ Deals shadow damage. +25% fire, ice, acid, crush, electric, pressure damage.
 The Arbiter
 심판자
 I have altered the rules. Pray I do not alter them further.
-규칙을 변경했습니다. 더 이상 변경하지 않도록 기도해 주십시오.
+내가 법칙을 바꿨다. 더 이상 변경하지 않도록 기도하시지.
 Deals chain damage with 200% binding efficiency, +40 shadow damage to summons. +25% glue and chain damage. Ranged attack: Disarm
 200% 바인딩 효율로 체인 데미지를 입히고, 소환 시 +40 암흑 데미지. +25% 글루 및 체인 데미지. 원거리 공격: 무장 해제
 Bondage Buster
@@ -2095,7 +2091,7 @@ Melee mode deals tickle damage.
 Blaster Shot
 블래스터 샷
 You set your blaster to stun and fire!
-블래스터를 기절시키고 발사하도록 설정했습니다!
+블래스터를 기절모드로 설정하고 발사했습니다!
 Messenger of Love
 사랑의 메신저
 Love shines in many ways...
@@ -2181,7 +2177,7 @@ You have access to something sharp and can attempt to cut restraints.
 You found a corner to help manipulate buckles and snaps with.
 버클과 스냅을 조작하는 데 도움이 되는 모서리를 찾았습니다.
 You found a crack and could maybe wedge a knife or tool into it to keep it still.
-균열을 발견하고 칼이나 도구를 쐐기로 고정하여 고정시킬 수 있습니다.
+균열을 발견했습니다. 칼이나 도구를 쐐기로 고정하여 고정시킬 수 있습니다.
 You found something sticky and might be able to pull off fabrics.
 끈적끈적한 무언가를 찾았고 천을 떼어낼 수 있을지도 모릅니다.
 Evasion: 
@@ -2199,15 +2195,15 @@ Prisoner: Enemies won't attack you unless you are out of jail.
 Freedom
 자유
 Crawling slowly!
-천천히 크롤링!
+천천히 기어갑니다!
 Inching slowly!
-천천히 인칭!
+천천히 움직입니다!
 Hopping slowly!
-천천히 호핑!
+천천히 토끼뜀으로 움직입니다!
 Slowed!
-느려졌다!
+느려짐!
 Immobile!
-움직이지 않는다!
+이동불가!
 Enclosed!
 에워싸는!
 
@@ -2225,7 +2221,7 @@ The vibration is torturous!
 진동은 고문입니다!
 
 Edged!
-가장자리!
+절정!
 Satisfied~
 만족~
 
@@ -2242,13 +2238,13 @@ It appears to be a receptacle
 Place live crystal
 라이브 크리스탈 배치
 Take the crystal
-크리스탈을 가져 가라.
+크리스탈을 가져가기.
 You place the crystal into the receptacle and it lights up!
-크리스탈을 콘센트에 넣으면 불이 들어옵니다!
+크리스탈을 콘센트에 넣자 불이 들어옵니다!
 You take the crystal from the receptacle and all goes dark.
 당신은 용기에서 수정을 가져오고 모든 것이 어두워집니다.
 You try to take the crystal but the cage around it is secured with a purple lock.
-당신은 수정을 가져가려고 하지만 그 주위의 우리는 보라색 자물쇠로 잠겨 있습니다.
+당신은 수정을 가져가려고 하지만 그 주위는 보라색 자물쇠로 잠겨 있습니다.
 Place spent crystal
 사용한 크리스탈 배치
 VALUE gold vanishes from your satchel as the receptacle explodes and your crystal is recharged!
@@ -2261,7 +2257,7 @@ EnemyName은 RestraintName으로 당신을 붙잡고 당신을 제자리에 유�
 The EnemyName grabs you and pulls you!!!
 EnemyName이 당신을 잡고 끌어당깁니다!!!
 The EnemyName misses you!
-EnemyName이 당신을 그리워합니다!
+EnemyName이 당신을 놓칩니다!
 
 You hear a door creak open nearby!
 근처에서 문이 삐걱거리는 소리가 들립니다!
@@ -2281,7 +2277,7 @@ The slime starts to harden over your skin...
 Angel Courier
 엔젤 택배
 You oneshotted her. What kind of devil are you???
-당신은 그녀를 원샷했습니다. 당신은 어떤 종류의 악마입니까 ???
+당신은 그녀를 단번에 죽여버렸습니다. 당신은 어떤 종류의 악마입니까 ???
 The angel decides to toy with you while you are trussed up.
 당신이 묶여 있는 동안 천사가 당신을 가지고 놀기로 결정했습니다.
 The angel snaps her fingers and divine restraints appear on your body!
@@ -2327,12 +2323,12 @@ Your ArmorName blocks the EnemyName's attack, falling off in the process.
 The EnemyName attacks you, but you block the attack!
 EnemyName이 당신을 공격하지만 당신은 공격을 막습니다!
 Blocked!
-막힌!
+막음!
 
 Mystic Lock
 신비한 자물쇠
 The mystic lock fades, allowing you to pass once more.
-신비한 자물쇠가 사라져 한 번 더 통과할 수 있습니다.
+신비한 자물쇠가 사라져 앞으로 한 번 더 통과할 수 있습니다.
 As you cross the threshold, a mystical lock appears to prevent you from stepping back!
 문지방을 넘으면 뒤로 물러서지 못하도록 신비한 자물쇠가 나타납니다!
 As you cross the threshold, a mystical lock appears to prevent you from stepping back!
@@ -2358,15 +2354,15 @@ The wall shatters into pieces, which fade away slowly.
 Earthen Monolith
 흙 기둥
 The monolith recedes into the ground.
-모놀리스가 땅 속으로 물러납니다.
+모노리스가 땅 속으로 물러납니다.
 Static Sphere
 정적 구체
 The sphere shrinks back into the storm dimension.
 구가 다시 폭풍 차원으로 축소됩니다.
 Familiar
-친숙한
+패밀리어
 The familiar dissolves into spectral ash.
-친근한 것이 유령의 재로 녹아듭니다.
+패밀리어가 유령의 재로 녹아듭니다.
 Latex Doll
 라텍스 인형
 The doll gives in to her desires and squirms around on the ground.
@@ -2426,7 +2422,7 @@ The zombie caresses your body! (DamageTaken)
 좀비가 당신의 몸을 어루만집니다! (DamageTaken)
 
 Maidforce Recruit
-메이드포스 모집
+메이드포스 신입
 The maid does a fumbled retreat.
 하녀가 어설프게 후퇴합니다.
 The maid uses a fast-binding technique! (+RestraintAdded)
@@ -2441,7 +2437,7 @@ M.F. '보이지 않는 칼날'
 The maid runs back to the shadows.
 하녀가 그림자로 돌아갑니다.
 The maid uses secure restraints on you! (+RestraintAdded)
-메이드가 안전 구속을 사용합니다! (+RestraintAdded)
+메이드가 당신에게 안전 구속을 사용합니다! (+RestraintAdded)
 The maid snaps a lock on one of your restraints! (DamageTaken)
 하녀가 당신의 구속 중 하나에 자물쇠를 걸었습니다! (DamageTaken)
 The maid stealthily rubs your sensitive areas! (DamageTaken)
@@ -2492,14 +2488,14 @@ The head maid snaps her fingers and you find your restraints locked! (DamageTake
 The head maid tickles you strategically! (DamageTaken)
 메이드장이 전략적으로 당신을 간지럽힌다! (DamageTaken)
 You are distracted for a moment and suddenly you find yourself in chastity!
-당신은 잠시 주의가 산만해졌는데 갑자기 순결한 자신을 발견하게 됩니다!
+당신은 잠시 주의가 산만해졌는데 갑자기 정조대가 걸린 자신을 발견하게 됩니다!
 
 Fire Elemental
 불의 정령
 The fire elemental dissolves into ash.
 화염의 정령이 재로 녹아내립니다.
 The fire elemental conjures forged restraints around your limbs! (+RestraintAdded)
-불의 정령이 당신의 팔다리에 위조된 구속을 불러냅니다! (+RestraintAdded)
+불의 정령이 당신의 팔다리에 단조된 구속을 불러냅니다! (+RestraintAdded)
 The fire elemental places a heavy lock on your restraint! (DamageTaken)
 화염의 정령이 당신의 구속에 무거운 자물쇠를 겁니다! (DamageTaken)
 The fire elemental touches you with her burning finger! (DamageTaken)
@@ -2642,15 +2638,15 @@ The rope artist smiles and tickles your feet! (DamageTaken)
 로프 예술가가 웃으며 발을 간지럽힌다! (DamageTaken)
 
 Deputy
-대리인
+보안관
 The Deputy surrenders her donuts.
-대리인은 그녀의 도넛을 포기합니다.
+보안관은 그녀의 도넛을 포기합니다.
 The Deputy slaps on some cuffs! (+RestraintAdded)
-대리인이 일부 수갑을 때립니다! (+RestraintAdded)
+보안관이 일부 수갑을 채웁니다! (+RestraintAdded)
 The Deputy tases you! (Stunned!)
-대리인이 당신을 맛본다! (기절!)
+보안관이 당신을 기절시킵니다! (기절!)
 The Deputy conducts a strip search! (DamageTaken)
-대리인 알몸 수색! (DamageTaken)
+보안관의 알몸 수색! (DamageTaken)
 
 Ninja Warrior
 닌자 전사
@@ -2675,11 +2671,11 @@ The assassin uses a subduing technique! (DamageTaken)
 Animated Armor
 움직이는 갑옷
 The Animated Armor falls into pieces.
-애니메이션 갑옷이 산산조각이 났습니다.
+움직이는 갑옷이 산산조각이 났습니다.
 The Animated Armor restrains you with shackles (+RestraintAdded)
-The Animated Armor는 당신을 족쇄로 구속합니다(+RestraintAdded)
+움직이는 갑옷이 당신을 족쇄로 구속합니다(+RestraintAdded)
 The Animated Armor hugs your body with an iron grip! (DamageTaken)
-Animated Armor는 강철 손잡이로 몸을 감싸줍니다! (DamageTaken)
+움직이는 갑옷은 강철 손아귀로 당신을 붙잡습니다! (DamageTaken)
 
 Mimic
 미믹
@@ -2709,22 +2705,22 @@ The Dragonheart Initiate squeezes your body! (DamageTaken)
 Dragonheart Initiate가 당신의 몸을 조입니다! (DamageTaken)
 
 Dragonheart Shield
-용심장 방패
+드래곤하트 방어자
 The Dragonheart Shield makes a tactical retreat.
-Dragonheart Shield는 전술적으로 후퇴합니다.
+드래곤하트 방어자는 전술적으로 후퇴합니다.
 The Dragonheart Shield apprehends you! (+RestraintAdded)
-Dragonheart Shield가 당신을 체포합니다! (+RestraintAdded)
+드래곤하트 방어자가 당신을 체포합니다! (+RestraintAdded)
 The Dragonheart Shield bonks you! (DamageTaken)
-Dragonheart Shield가 당신을 괴롭힙니다! (DamageTaken)
+드래곤하트 방어자가 당신을 괴롭힙니다! (DamageTaken)
 The Dragonheart Shield squeezes your body! (DamageTaken)
-Dragonheart Shield가 몸을 조입니다! (DamageTaken)
+드래곤하트 방어자가 몸을 조입니다! (DamageTaken)
 
 Ice Dragonheart
 아이스 드래곤하트
 The Ice Dragonheart retreats in a blast of snow.
-얼음 드래곤하트가 폭설 속에서 후퇴합니다.
+아이스 드래곤하트가 폭설 속에서 후퇴합니다.
 The Ice Dragonheart apprehends you! (+RestraintAdded)
-얼음 드래곤하트가 당신을 체포합니다! (+RestraintAdded)
+아이스 드래곤하트가 당신을 체포합니다! (+RestraintAdded)
 The Ice Dragonheart gives your body a cold touch! (DamageTaken)
 아이스 드래곤하트가 당신의 몸을 차갑게 만져줍니다! (DamageTaken)
 
@@ -2777,16 +2773,16 @@ Chaotic Crystal
 The crystal shatters!
 크리스탈이 부서진다!
 The chaotic crystal leeches willpower from you! (DamageTaken)
-혼돈의 수정 거머리가 당신에게서 의지력을 얻습니다! (DamageTaken)
+혼돈의 수정이 당신에게서 의지력을 빼앗습니다! (DamageTaken)
 
 Grand Chaotic Crystal
 대혼돈의 수정
 The grand crystal shatters!
-대형 수정이 부서진다!
+대혼돈의 수정이 부서진다!
 The grand crystal leeches willpower from you! (DamageTaken)
-그랜드 크리스탈 거머리가 당신에게서 의지력을 얻습니다! (DamageTaken)
+대혼돈의 수정이 당신에게서 의지력을 빼앗습니다! (DamageTaken)
 Crystals erupt from the ground and slowly grow around your limbs! (+RestraintAdded)
-크리스탈이 땅에서 분출하여 팔다리 주변에서 천천히 자랍니다! (+RestraintAdded)
+크리스탈이 땅에서 분출하여 당신의 팔다리 주변에서 천천히 자랍니다! (+RestraintAdded)
 
 Soul Crystal
 소울 크리스탈
@@ -2803,15 +2799,15 @@ The soul crystal leeches willpower from you! (DamageTaken)
 
 
 Shadow Dragonheart
-그림자 용심장
+쉐도우 드래곤하트
 The Shadow Dragonheart frowns and runs away.
-그림자 용심장이 눈살을 찌푸리며 달아난다.
+쉐도우 드래곤하트가 눈살을 찌푸리며 달아난다.
 The Shadow Dragonheart apprehends you! (+RestraintAdded)
-그림자 드래곤하트가 당신을 체포합니다! (+RestraintAdded)
+쉐도우 드래곤하트가 당신을 체포합니다! (+RestraintAdded)
 The Shadow Dragonheart extends her scythe and pulls you closer!!!
-그림자 드래곤하트가 낫을 뻗어 당신을 가까이 끌어당깁니다!!!
+쉐도우 드래곤하트가 낫을 뻗어 당신을 가까이 끌어당깁니다!!!
 The Shadow Dragonheart catches you with her scythe! (DamageTaken)
-그림자 용심장이 낫으로 당신을 붙잡습니다! (DamageTaken)
+쉐도우 드래곤하트가 낫으로 당신을 붙잡습니다! (DamageTaken)
 
 Dragonheart Leader
 드래곤하트 리더
@@ -2845,18 +2841,8 @@ The dryad extends an arm, and she wraps you in vines! (+RestraintAdded)
 The dryad sings a song that mesmerizes you! (DamageTaken)
 드라이어드가 당신을 매료시키는 노래를 부릅니다! (DamageTaken)
 The dryad tickles you with a leaf! (DamageTaken)
-드리야드가 당신을 나뭇잎으로 간지럽힙니다! (DamageTaken)
+드라이어드가 당신을 나뭇잎으로 간지럽힙니다! (DamageTaken)
 
-Dryad
-드라이어드
-The dryad sinks into the ground.
-드라이어드가 땅 속으로 가라앉습니다.
-The dryad extends an arm, and she wraps you in vines! (+RestraintAdded)
-드라이어드가 팔을 뻗어 당신을 덩굴로 감쌉니다! (+RestraintAdded)
-The dryad sings a song that mesmerizes you! (DamageTaken)
-드라이어드가 당신을 매료시키는 노래를 부릅니다! (DamageTaken)
-The dryad tickles you with a leaf! (DamageTaken)
-드리야드가 당신을 나뭇잎으로 간지럽힙니다! (DamageTaken)
 
 
 Alchemist
@@ -2871,7 +2857,7 @@ The alchemist hugs you in a rubbery embrace! (DamageTaken)
 Alchemist's Pet
 연금술사의 애완동물
 The wolfgirl escapes!
-늑대소녀 탈출!
+늑대소녀가 탈출!
 The wolfgirl lunges at you with a powerful kick!
 울프걸이 강력한 발차기로 당신에게 달려듭니다!
 The wolfgirl lunges at you with a powerful kick!
@@ -2879,21 +2865,11 @@ The wolfgirl lunges at you with a powerful kick!
 The wolfgirl cuddles with you! (DamageTaken)
 울프걸이 당신을 껴안고 있어요! (DamageTaken)
 
-Wolfgirl
-울프걸
-The wolfgirl escapes!
-늑대소녀 탈출!
-The wolfgirl lunges at you with a powerful kick!
-울프걸이 강력한 발차기로 당신에게 달려듭니다!
-The wolfgirl lunges at you with a powerful kick!
-울프걸이 강력한 발차기로 당신에게 달려듭니다!
-The wolfgirl cuddles with you! (DamageTaken)
-울프걸이 당신을 껴안고 있어요! (DamageTaken)
 
 Wolfguard
 울프가드
 The wolfguard's suit punishes her for poor performance!
-울프가드의 수트는 성능 저하로 그녀를 처벌합니다!
+울프가드의 수트가 형편없는 성과로 그녀를 처벌합니다!
 The wolfguard lunges at you and strikes you!
 울프가드가 당신에게 달려들어 공격합니다!
 The wolfguard's escort drones electrocute you! (DamageTaken)
@@ -2908,7 +2884,7 @@ The trainer retreats!
 The wolfgirl trainer squeezes your breasts playfully! (DamageTaken)
 장난스럽게 당신의 가슴을 쥐어짜는 늑대소녀조련사! (DamageTaken)
 The wolfgirl trainer secures you in training gear! (+RestraintAdded)
-늑대소녀조련사가 당신을 훈련 장비로 보호합니다! (+RestraintAdded)
+늑대소녀조련사가 당신을 훈련 장비로 확보합니다! (+RestraintAdded)
 The wolfgirl trainer pins you and skillfully locks all of your restraints!
 늑대소녀조련사가 당신을 고정시키고 당신의 모든 구속을 능숙하게 잠급니다!
 
@@ -2919,7 +2895,7 @@ The operative does a fumbled retreat!
 The Nevermere Operative smiles and gropes your body! (DamageTaken)
 네버미어 오퍼레이티브가 웃으며 네 몸을 더듬는다! (DamageTaken)
 The Nevermere Operative apprehends you with training gear! (+RestraintAdded)
-Nevermere Operative가 훈련 장비를 들고 당신을 체포합니다! (+RestraintAdded)
+네버미어 오퍼레이티브가 훈련 장비를 들고 당신을 체포합니다! (+RestraintAdded)
 The Nevermere Operative pins you and skillfully locks all of your restraints!
 네버미어 오퍼레이티브가 당신을 고정시키고 능숙하게 당신의 모든 구속을 잠급니다!
 
@@ -2935,35 +2911,35 @@ The trainer's apprentice adds a lock to your restraints.
 트레이너의 견습생이 당신의 구속에 자물쇠를 추가합니다.
 
 The Executive
-더 이그제큐티브
+간부
 The executive surrenders gracefully.
-임원은 우아하게 항복합니다.
+간부는 우아하게 항복합니다.
 The Executive makes a persuasive argument! (DamageTaken)
-집행부가 설득력 있는 주장을 합니다! (DamageTaken)
+간부가 설득력 있는 주장을 합니다! (DamageTaken)
 The Executive's drones apprehend you! (+RestraintAdded)
-집행관의 드론이 당신을 체포합니다! (+RestraintAdded)
+간부의 드론이 당신을 체포합니다! (+RestraintAdded)
 The Executive's drones apply high-security locks to your restraints!
-Executive의 드론은 당신의 구속에 높은 보안 잠금 장치를 적용합니다!
+간부의 드론은 당신의 구속에 높은 보안 잠금 장치를 적용합니다!
 
 Wolf Instructor
 늑대 교관
 The instructor deploys active camoflague and retreats!
 교관이 능동위장을 하고 퇴각!
 The instructor disciplies you! (DamageTaken)
-교관이 당신을 징계합니다! (DamageTaken)
+교관이 당신을 훈육합니다! (DamageTaken)
 The instructor applies advanced training gear! (+RestraintAdded)
 교관이 고급 트레이닝 장비를 적용! (+Restraint추가)
 The instructor adds a lock to your restraints.
-강사는 구속에 자물쇠를 추가합니다.
+교관이 구속에 자물쇠를 추가합니다.
 
 Nevermere Drone
 네버미어 드론
 The drone loses power and falls to the ground!
 드론이 힘을 잃고 땅에 떨어집니다!
 A Nevermere Drone takes off!
-Nevermere 드론이 이륙합니다!
+네버미어 드론이 이륙합니다!
 You hear buzzing as several Nevermere Drones take to the air!
-여러 Nevermere 드론이 공중으로 날아오를 때 윙윙거리는 소리가 들립니다!
+여러 네버미어 드론이 공중으로 날아오를 때 윙윙거리는 소리가 들립니다!
 
 Swarm of Tape Drones
 테이프 드론 떼
@@ -3021,30 +2997,30 @@ The enforcer fires off restraints that wrap around your body and apprehend you!
 The energy bolt hits you and paralyzes you!
 에너지 볼트가 당신을 때리고 마비시킵니다!
 Energy Bolt
-에너지 샵
+에너지 볼트
 
 Alkahestor
 알카헤스터
 The alkahestor resigns to her fate.
-alkahestor는 그녀의 운명에 사임합니다.
+알카헤스터는 그녀의 운명에 굴복합니다.
 The Alkahestor releases a vial of liquid that wraps around you! (+RestraintAdded)
-Alkahestor가 당신을 감싸는 액체 병을 방출합니다! (+RestraintAdded)
+알카헤스터가 당신을 감싸는 액체 병을 방출합니다! (+RestraintAdded)
 The alkahestor shoves you! (DamageTaken)
-alkahestor가 당신을 밀었습니다! (DamageTaken)
+알카헤스터가 당신을 밀었습니다! (DamageTaken)
 
 Latex Elemental
 라텍스 엘리멘탈
 The latex elemental melts into sticky rubber.
-라텍스 정령이 녹아서 끈적끈적한 고무가 됩니다.
+라텍스 엘리멘탈이 녹아서 끈적끈적한 고무가 됩니다.
 The latex elemental molds itself into restraints! (+RestraintAdded)
-라텍스 엘레멘탈이 스스로를 구속합니다! (+RestraintAdded)
+라텍스 엘리멘탈이 구속구로 모습을 변형합니다! (+RestraintAdded)
 The latex elemental slaps you with its appendages! (DamageTaken)
-라텍스 엘리멘탈이 부속물로 당신을 때립니다! (DamageTaken)
+라텍스 엘리멘탈이 부속기관으로 당신을 때립니다! (DamageTaken)
 
 Rope Elemental
 로프 엘리멘탈
 The rope elemental gets knotted and falls to the floor, inert.
-밧줄 엘리멘탈이 매듭을 짓고 바닥에 떨어집니다.
+로프 엘리멘탈이 매듭을 짓고 바닥에 떨어집니다.
 The rope elemental's limbs lash out at you, wrapping themselves around your body! (+RestraintAdded)
 로프 엘레멘탈의 팔다리가 당신을 향해 달려들어 당신의 몸을 감쌉니다! (+RestraintAdded)
 The rope elemental squeezes you tightly! (DamageTaken)
@@ -3053,23 +3029,23 @@ The rope elemental squeezes you tightly! (DamageTaken)
 Leather Elemental
 가죽 엘리멘탈
 The leather elemental sits down and sulks.
-가죽 정령이 주저앉아 토라진다.
+가죽 엘리멘탈이 주저앉아 토라진다.
 The leather elemental wraps her long extremities around your body! (+RestraintAdded)
 가죽 엘리멘탈이 긴 팔다리로 당신의 몸을 감쌉니다! (+RestraintAdded)
 The leather elemental strikes you with her leather belts! (DamageTaken)
 가죽 엘리멘탈이 가죽 벨트로 당신을 공격합니다! (DamageTaken)
 
 Slime Enthusiast
-슬라임 매니아
+슬라임 애호가
 The slime enthusiast screams and runs.
-슬라임 매니아가 비명을 지르며 달려갑니다.
+슬라임 애호가가 비명을 지르며 달려갑니다.
 The slime enthusiast restrains you! (+RestraintAdded)
 슬라임 애호가가 당신을 구속합니다! (+RestraintAdded)
 The Slime Enthusiast hugs you in a rubbery embrace! (DamageTaken)
-슬라임 매니아가 고무 같은 포옹으로 당신을 안아줍니다! (DamageTaken)
+슬라임 애호가가 고무 같은 포옹으로 당신을 안아줍니다! (DamageTaken)
 
 Miner
-갱부
+광부
 The bandit tosses her pick to the ground and complains about her pay.
 산적은 그녀의 곡괭이를 땅에 던지고 그녀의 급여에 대해 불평합니다.
 The miner restrains you! (+RestraintAdded)
@@ -3083,25 +3059,25 @@ Miner Bomb
 광부 폭탄
 
 Bandit
-적기
+산적
 The bandit cries. You should feel bad.
 산적이 운다. 기분이 나쁠 것 같다.
 
 Bandit
-적기
+산적
 The bandit collapses.
-적기가 쓰러졌다.
+산적이 쓰러졌다.
 The bandit restrains you! (+RestraintAdded)
-적기가 당신을 구속합니다! (+RestraintAdded)
+산적이 당신을 구속합니다! (+RestraintAdded)
 The bandit caresses your restrained body! (DamageTaken)
 산적은 당신의 구속된 몸을 애무합니다! (DamageTaken)
 
 Shady Dealer
-그늘진 딜러
+수상한 상인
 The bandit dealer flees, leaving her goods behind.
-산적 장수가 물건을 두고 도망친다.
+산적 상인이 물건을 두고 도망친다.
 The bandit dealer uses some high-quality restraints on you! (+RestraintAdded)
-산적 딜러가 당신에게 고급 구속을 사용합니다! (+RestraintAdded)
+산적 상인이 당신에게 고급 구속을 사용합니다! (+RestraintAdded)
 The bandit kisses and gropes your body! (DamageTaken)
 산적이 키스하고 몸을 더듬는다! (DamageTaken)
 That dagger was laced with something...
@@ -3114,16 +3090,16 @@ Lust Bomb
 정욕 폭탄
 
 Bandit Guard
-밴디트 가드
+산적 경비병
 The bandit guard collapses and calls for help.
 산적 경비병이 쓰러지고 도움을 요청합니다.
 The bandit guard restrains you! (+RestraintAdded)
-산적 가드가 당신을 구속합니다! (+RestraintAdded)
+산적 경비병이 당신을 구속합니다! (+RestraintAdded)
 The bandit rubs and caresses your restrained body! (DamageTaken)
 산적은 구속된 당신의 몸을 비비고 어루만집니다! (DamageTaken)
 
 Bandit Chief
-도적장
+도적 두목
 The bandit scoffs and retreats until next time.
 도적은 비웃고 다음 시간까지 후퇴한다.
 The bandit restrains you tightly! (+RestraintAdded)
@@ -3218,13 +3194,13 @@ The Ghost tickles you! (DamageTaken)
 유령이 당신을 간지럽힙니다! (DamageTaken)
 
 Revenant
-레버넌트
+망령
 The revenant pouts as it vanishes.
 사라지는 망령이 입을 삐죽거린다.
 The revenant restrains you! (+RestraintAdded)
-원령이 너를 구속한다! (+RestraintAdded)
+망령이 너를 구속한다! (+RestraintAdded)
 The revenant squeezes your breasts! (DamageTaken)
-원령이 네 가슴을 조인다! (DamageTaken)
+망령이 네 가슴을 조인다! (DamageTaken)
 The revenant grabs you and caresses your tummy! (DamageTaken)
 망령이 당신을 잡고 배를 어루만집니다! (DamageTaken)
 
@@ -3247,22 +3223,22 @@ The skeleton grabs you and slips a black cuff on! (+RestraintAdded)
 해골이 당신을 잡고 검은 수갑을 채웁니다! (+RestraintAdded)
 
 Vine Plant
-식물이 온다
+덩굴 식물
 The plant leaks purple juices everywhere as it wilts.
 식물은 시들면서 사방에서 보라색 주스를 흘립니다.
 The vine plant whips you with its tendrils! (DamageTaken)
 덩굴 식물이 덩굴손으로 당신을 채찍질합니다! (DamageTaken)
 The vine plant wraps its tendrils around you! (+RestraintAdded)
-포도나무가 덩굴손으로 당신을 감쌉니다! (+RestraintAdded)
+덩굴 식물이 덩굴손으로 당신을 감쌉니다! (+RestraintAdded)
 The vine plant grips you tightly! (DamageTaken)
 덩굴 식물이 당신을 단단히 움켜쥐고 있습니다! (DamageTaken)
 
 Bramble
 가시나무
 The brambles are hacked away.
-가시나무가 해킹당했습니다.
+가시나무가 점점 줄어듭니다.
 The bramble snares you! (DamageTaken)
-가시나무가 당신을 덫에 걸리게 합니다! (DamageTaken)
+가시나무가 당신에게 얽혀듭니다! (DamageTaken)
 
 The red liquid bubbles and several round slimes pop out!
 붉은 액체 방울과 여러 개의 둥근 슬라임이 튀어나옵니다!
@@ -3292,7 +3268,7 @@ The red slime bounces away.
 The red slime bounces off you! (DamageTaken)
 빨간 슬라임이 튕겨져 나옵니다! (DamageTaken)
 The slime shoves itself into your mouth! (+RestraintAdded)
-슬라임이 당신의 입 속으로 밀어넣었습니다! (+RestraintAdded)
+슬라임이 자신의 몸을 당신의 입 속으로 밀어넣었습니다! (+RestraintAdded)
 
 Slime Mold
 점균류
@@ -3334,7 +3310,7 @@ The slime attaches itself to your body! (+RestraintAdded)
 슬라임이 몸에 붙는다! (+RestraintAdded)
 
 Fast Slime
-패스트 슬라임
+빠른 슬라임
 The slime melts into a puddle.
 점액이 녹아서 웅덩이가 됩니다.
 The sticky slime leaps and splashes against you! (DamageTaken)
@@ -3371,7 +3347,7 @@ The rope kraken squeezes you with one of its tentacles! (DamageTaken)
 로프 크라켄이 촉수 중 하나로 당신을 조입니다! (DamageTaken)
 
 Rope Kraken
-로프 크래킹
+로프 크라켄
 The rope kraken devolves into a bundle of premium bondage rope.
 로프 크라켄은 고급 속박 로프 묶음으로 변합니다.
 The rope kraken tightly cinches itself around your body! (DamageTaken)
@@ -3430,7 +3406,7 @@ The shackles click seductively in your face... (DamageTaken)
 족쇄가 당신의 얼굴을 매혹적으로 때립니다... (DamageTaken)
 
 Lurid Legbinder
-무시무시한 다리결속사
+야한 다리결속사
 The legbinder unravels.
 레그바인더가 풀린다.
 The legbinder zips itself around your legs and squeezes them together! (+RestraintAdded)
@@ -3671,7 +3647,7 @@ The witch squeezes your body playfully! (DamageTaken)
 마녀가 장난스럽게 당신의 몸을 쥐어짠다! (DamageTaken)
 
 'High' Wizard
-'하이' 마법사
+'고위' 마법사
 The wizard falls asleep.
 마법사가 잠이 든다.
 The wizard clips a restraint around your neck!
@@ -3680,13 +3656,13 @@ The wizard laughs maniacally as she tickles you!
 마법사는 당신을 간지럽히면서 광적으로 웃는다!
 
 FunGal
-펀갤
+곰팡이
 The fun-gal retreats into the ground.
 곰팡이가 땅 속으로 후퇴합니다.
 The fun-gal clips a restraint around your neck!
-곰돌이가 당신의 목을 묶습니다!
+곰팡이가 당신의 목을 묶습니다!
 The fun-gal rubs your chest with her long, slender fingers!
-펑걸이 길고 가느다란 손가락으로 가슴을 문지른다!
+곰팡이가 길고 가느다란 손가락으로 가슴을 문지른다!
 Crystal Glyph
 크리스탈 문양
 
@@ -3707,7 +3683,7 @@ You murder the tactician!
 당신은 전술가를 죽인다!
 
 Informant
-피조사자
+정보원
 You murder the informant!
 당신은 정보원을 죽인다!
 
@@ -3722,15 +3698,15 @@ You murder the blacksmith!
 당신은 대장장이를 살해!
 
 Dressmaker
-양장점
+재단사
 The dressmaker storms out in a rage.
-양장점이 분노에 휩싸입니다.
+재단사가 분노에 휩싸입니다.
 The dressmaker has you try on one of her new accessories! (+RestraintAdded)
-양장점이 당신에게 그녀의 새로운 액세서리 중 하나를 입어보라고 했습니다! (+RestraintAdded)
+재단사가 당신에게 그녀의 새로운 액세서리 중 하나를 입어보라고 했습니다! (+RestraintAdded)
 The dressmaker adds a lock 'just to complete the look, you know?'
-양장점은 '룩을 완성하기 위해 자물쇠를 추가합니다.'
+재단사는 룩을 완성하기 위해 자물쇠를 추가합니다.'
 The dressmaker cuddles your helpless body~ (DamageTaken)
-드레스메이커가 무기력한 몸을 안아주네요~ (DamageTaken)
+재단사가 무기력한 몸을 안아주네요~ (DamageTaken)
 
 Nurse
 간호사
@@ -3770,7 +3746,7 @@ The giant mushroom explodes into a cloud of spores!!!
 거대한 버섯이 포자 구름으로 폭발합니다!!!
 
 Animated Mushroom
-애니메이션 버섯
+움직이는 버섯
 The animated mushroom explodes into a cloud of spores!!!
 움직이는 버섯이 포자 구름으로 폭발합니다!!!
 The animated mushroom spits spores into your face and ties you while you are distracted! (+RestraintAdded)
@@ -3799,7 +3775,7 @@ The infected mushroom gives you a crushing hug! (DamageTaken)
 감염된 버섯이 당신을 압도합니다! (DamageTaken)
 
 Jailer
-교도관
+간수
 The jailer passes out and drops her possessions!
 간수가 기절하고 소지품을 떨어뜨립니다!
 The jailer locks your restraints!
@@ -3978,11 +3954,11 @@ The floating tome burns into ashes!
 You are grabbed and led to a prison...
 너는 붙잡혀서 감옥으로 끌려가...
 Perhaps they may release you if you behave...
-아마도 당신이 행동하면 그들이 당신을 풀어줄지도 모릅니다...
+당신이 얌전히 있으면 그들이 당신을 풀어줄지도 모릅니다...
 
 
 Necromancer
-점쟁이
+네크로맨서
 The necromancer faints. Ironic that she couldn't save herself.
 네크로맨서가 기절합니다. 그녀가 자신을 구할 수 없다는 것이 아이러니합니다.
 The necromancer locks all of your restraints!
@@ -4025,9 +4001,9 @@ A light restores the will of its allies!
 You do not have enough resources to cast the spell!
 당신은 마법을 걸기에 충분한 자원이 없습니다!
 You AttackName TargetEnemy for DamageDealt DamageType damage!
-DamageDealt DamageType 손상에 대한 AttackName TargetEnemy!
+당신은 TargetEnemy 에게 AttackName 하여 DamageType 으로 DamageDealt 피해를 주었습니다!
 You AttackName TargetEnemy for a decreased DamageDealt DamageType damage!
-감소된 DamageDealt DamageType 손상에 대한 AttackName TargetEnemy!
+당신은 TargetEnemy 에게 AttackName 하여 감소된 DamageType DamageDealt 피해를 주었습니다!
 You AttackName TargetEnemy for an increased DamageDealt DamageType damage!
 증가된 DamageDealt DamageType 손상에 대한 AttackName TargetEnemy!
 You AttackName TargetEnemy for a devastating DamageDealt DamageType damage!
@@ -4053,7 +4029,7 @@ attack
 damage
 손상
 You miss the TargetEnemy!
-당신은 TargetEnemy를 놓치고 있습니다!
+당신은 TargetEnemy를 빗맞혔습니다!
 Your attack is too feeble to hurt the TargetEnemy!
 당신의 공격은 TargetEnemy를 해치기에는 너무 약합니다!
 You try to pull the TargetRestraint off...
